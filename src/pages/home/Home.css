@@ -1,0 +1,16 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+
+}
+.line {
+    background-color: #121212;
+    height: 5px;
+    width: 81em;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    border-radius: 16px;
+}
